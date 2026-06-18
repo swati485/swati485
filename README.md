@@ -1,13 +1,11 @@
-<!-- ══════════════════════════════════════════════════════════
-     Ujjawal Bhardwaj · @UBX-CODE · GitHub Profile README
-     ══════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 <img src="game.gif"/>
 <br/>
 </div>
 
-<h1 align="center">Ujjawal Bhardwaj</h1>
+<h1 align="center">Swati Sharma</h1>
 <p align="center"><b>Fullstack Developer</b></p>
 
 <p align="center">
@@ -23,12 +21,11 @@ Focused on clean architecture, performance, and real-world impact.
     <td width="58%" valign="top">
 
 ```js
-const ujjawal = {
-  name:      "Ujjawal Bhardwaj",
-  alias:     "UBX-CODE 🎯",
+const Swati = {
+  name:      "Swati Sharma",
   role:      "Software Engineer",
-  college:   "Arya College of Engineering & IT",
-  location:  "Jaipur, Rajasthan 🇮🇳",
+  college:   "Graphic Era Hill University",
+  location:  "Dehradun, Uttrakhand",
   stack:     ["Next.js", "Node.js", "Express", "MongoDB"],
   interests: ["Clean Architecture","Performance Optimization",
               "UI/UX", "DSA"],
@@ -52,14 +49,9 @@ const ujjawal = {
 
 <b>
 &nbsp;•&nbsp;
-<a href="https://ubxportfolio.netlify.app/">portfolio/ ujjawal.me</a>
+<a href="https://www.linkedin.com/in/swati-sharma-a052a932a/">linkedin/ Swati Sharma</a>
 &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/ujjawal-bhardwaj-643625372/">linkedin/ ujjawal</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/UBX-CODE">github/ UBX-CODE</a>
-&nbsp;•&nbsp;
-<a href="https://leetcode.com/u/UBX0/">Leetcode/ UBX0</a>
-
+<a href="https://github.com/swati485">github/ swati485</a>
 </b>
 
 </div>
@@ -68,8 +60,6 @@ const ujjawal = {
 ## Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,linux" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,threejs,nextjs,ts,vite,npm,redhat" />
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,figma,vercel,netlify,vscode,mysql,postgres,redis,git,github,docker,aws" />
 </div>
 
 ---
